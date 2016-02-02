@@ -7,7 +7,7 @@ public class Main {
 
         m=initMas();
         printMas(m);
-        // write your code here
+        // домашн€€ задача є7 часть
 
     }
 
